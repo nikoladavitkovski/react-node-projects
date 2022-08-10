@@ -3,11 +3,14 @@ import React from "react";
 import React from "react";
 
 import Classprops from "./Classprops";
+@Mongoose/localhost
 
 const request = require('request');
+const react = require('react');
 const Model = mongoose.model('Test', schema);
 const Playlists = require('./models/playlists');
 const app = localhost('3000');
+const parameters = require('password','username');
 const Playquery = require('./models/players');
 const Players = require('./models/players');
 const Albums = require('./models/albums');
